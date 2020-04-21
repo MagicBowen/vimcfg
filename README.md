@@ -61,6 +61,12 @@ $ ln -s /usr/local/vim8/bin/vim /usr/local/bin/vim
 $ vim --version
 ```
 
+## install vundle
+
+```sh
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+```
+
 ## config VIM
 
 ```sh
